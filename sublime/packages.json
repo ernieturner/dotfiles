@@ -1,0 +1,22 @@
+{
+    "bootstrapped": true,
+    "in_process_packages":
+    [
+    ],
+    "installed_packages":
+    [
+        "All Autocomplete",
+        "Babel",
+        "DocBlockr",
+        "Elm Language Support",
+        "MarkdownEditing",
+        "Package Control",
+        "Sass",
+        "SublimeCodeIntel",
+        "SublimeLinter",
+        "SublimeLinter-contrib-eslint",
+        "SublimeLinter-csslint",
+        "Theme - Broceanic"
+    ]
+}
+

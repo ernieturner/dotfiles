@@ -1,0 +1,55 @@
+{
+    "added_words":
+    [
+        "codebase",
+        "Middleware",
+        "watchlist",
+        "watchlists",
+        "param",
+        "Redis"
+    ],
+    "color_scheme": "Packages/User/SublimeLinter/Oceanic Next (SL).tmTheme",
+    "default_line_endings": "unix",
+    "find_selected_text": true,
+    "folder_exclude_patterns":
+    [
+        "node_modules",
+        ".git",
+        ".grunt",
+        "bower_components",
+        ".module-cache",
+        ".sass-cache",
+        "beacon/bin/coverage",
+        "admin/app/public/dist",
+        "admin/bin/coverage",
+        "handles/public/compiled",
+        "handles/public/dist",
+        "expanded-react-test-utils/app/compiled",
+        "expanded-react-test-utils/app/dist",
+        "expanded-react-test-utils/bin/coverage",
+        "drc/bin/coverage",
+        "react-components/bin/coverage",
+        "dataminr-core/bin/coverage",
+        "react-components/dist",
+        "ghost/bin/coverage"
+    ],
+    "font_size": 14,
+    "ignored_packages":
+    [
+        "Markdown",
+        "Vintage"
+    ],
+    "ignored_words":
+    [
+        "app",
+        "auth",
+        "inline",
+        "middleware"
+    ],
+    "show_full_path": true,
+    "theme": "Broceanic.sublime-theme",
+    "translate_tabs_to_spaces": true,
+    "trim_trailing_white_space_on_save": true,
+    "word_wrap": false
+}
+
